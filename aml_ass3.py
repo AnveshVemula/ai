@@ -18,7 +18,7 @@ error1=[]
 error2=[]
 error3=[]
 
-
+i edited this
 trainingdata=[]
 testdata=[]
 for i in range(length/3,length):
